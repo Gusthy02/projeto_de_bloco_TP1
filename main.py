@@ -7,7 +7,7 @@ def adicionar_atendimento(tarefas, contador_id, descricao, nome_cliente, nome_ba
     Parâmetros:
         tarefas (list): lista que armazena todos os atendimentos.
         contador_id (int): identificador único da tarefa.
-        descricao (str): descrição do atendimento.
+        descricao (stir): descrição do atendimento.
         nome_cliente (str): nome do cliente.
         nome_barbeiro (str): nome do barbeiro responsável.
         horario_atendimento (str): horário marcado para o atendimento.
